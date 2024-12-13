@@ -5,6 +5,6 @@
 3. Q3: Methods to do imputation for sequential data: https://medium.com/@aaabulkhair/ (from GPT)data-imputation-demystified-time-series-data-69bc9c798cb7 (from Medium)
 4. Q3: RNN,LSTM,AE structure: https://github.com/omerbsezer/LSTM_RNN_Tutorials_with_Demo (from github)
 5. Q3: Validation loss plot: https://chatgpt.com/share/675c6cbf-7430-8013-b9b0-6aa8a5cf4dff (from GPT)
-6. Q3: Mehods improve LSTM: https://medium.com/@yousufdata/6-tips-to-tweak-your-lstm-bilstm-15fd02685c8 (from Medium)
+6. Q3: Mehods improve LSTM: https://medium.com/@yousufdata/6-tips-to-tweak-your-lstm-bilstm-15fd02685c8 (from Medium)x
 
 

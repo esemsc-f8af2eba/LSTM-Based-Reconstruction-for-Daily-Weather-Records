@@ -1,5 +1,4 @@
 # LSTM-Based-Reconstruction-for-Daily-Weather-Records
-Public
 
 ## Overview
 This project focuses on reconstructing missing daily weather measurements from corrupted multivariate time-series data spanning four decades for a European city. Three decades are provided in both corrupted and uncorrupted form for supervised training, and the fourth decade (`test_set.csv`) contains only corrupted data. The objective is to train a neural network from scratch and generate a completed file `test_set_nogaps.csv` that preserves the original format while filling missing values.
@@ -96,10 +95,3 @@ ChatGPT (OpenAI) was used for:
 - Debugging model training issues and PyTorch pipeline setup.
 
 All neural networks were implemented and trained from scratch. No pre-trained models were used.
-
----
-
-## Final Checks Before Submission
-- `test_set_nogaps.csv` contains no NaN values in weather feature columns.
-- Output schema exactly matches `test_set.csv`.
-- All notebook cells have been executed and saved.
